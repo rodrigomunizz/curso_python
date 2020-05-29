@@ -1,0 +1,10 @@
+x = input('pegando um numero: ')
+print(x)
+print(type(x))
+x = int(x)
+print(x)
+print(type(x))
+
+idade = int (input('Qual a idade do cliente: '))
+entrada = (idade >= 18)
+print(entrada)
